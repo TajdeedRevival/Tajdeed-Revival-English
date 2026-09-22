@@ -43,6 +43,8 @@ Where available, publications are provided as PDF documents. Other material may 
 
 Books, papers and articles relating to Islamic thought, intellectual revival and related subjects.
 
+[📚 Browse Islamic Thought Publications](Publications/Islamic_Thought/)
+
 * [Publications — Islamic Thought](Publications/Islamic_Thought/)
 
 ### History
